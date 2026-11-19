@@ -1,0 +1,301 @@
+id,building,trade,priority,status,created,closed,vendor,description
+WO-1001,Building A,HVAC,Emergency,Closed,2026-08-23,2026-08-24,Acme HVAC,Room too hot
+WO-1002,Building A,Custodial,Medium,Open,2026-10-25,,CleanSweep Services,Carpet cleaning request
+WO-1003,Building C,Plumbing,Medium,Closed,2026-06-15,2026-07-08,Northside Plumbing,Leaking faucet
+WO-1004,Building C,Plumbing,Medium,Closed,2026-08-06,2026-08-23,Northside Plumbing,Leaking faucet
+WO-1005,Building A,HVAC,Medium,Closed,2026-08-02,2026-09-11,Acme HVAC,No cooling
+WO-1006,Building C,Custodial,High,Closed,2026-07-28,2026-07-31,CleanSweep Services,Carpet cleaning request
+WO-1007,Building A,Plumbing,Medium,In Progress,2026-10-21,,Northside Plumbing,Clogged drain
+WO-1008,Building C,HVAC,Medium,Closed,2026-07-08,2026-08-08,Acme HVAC,Air handler noise
+WO-1009,Building B,Plumbing,Medium,Open,2026-10-14,,Northside Plumbing,Clogged drain
+WO-1010,Building A,Carpentry,Medium,Closed,2026-06-12,2026-06-27,Oak and Pine Carpentry,Door will not latch
+WO-1011,Building C,HVAC,Low,Closed,2026-07-22,2026-08-27,Acme HVAC,Thermostat not responding
+WO-1012,Building C,Carpentry,Medium,Closed,2026-07-07,2026-07-19,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1013,Building B,Custodial,Medium,Closed,2026-06-05,2026-06-27,CleanSweep Services,Carpet cleaning request
+WO-1014,Building B,Carpentry,High,Open,2026-10-20,,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1015,Building A,Carpentry,Medium,In Progress,2026-07-26,,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1016,Building C,HVAC,Medium,Closed,2026-06-17,2026-07-23,Acme HVAC,Room too hot
+WO-1017,Building C,Electrical,Medium,Closed,2026-07-08,2026-07-14,Brightline Electric,Flickering lights
+WO-1018,Building B,Custodial,Low,Open,2026-08-17,,CleanSweep Services,Restroom restock
+WO-1019,Annex D,Plumbing,Medium,Closed,2026-06-19,2026-07-31,Northside Plumbing,Leaking faucet
+WO-1020,Building A,HVAC,Low,Closed,2026-08-15,2026-09-17,Acme HVAC,Room too hot
+WO-1021,Annex D,Carpentry,Low,Closed,2026-06-18,2026-09-04,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1022,Building C,Plumbing,Medium,Open,2026-07-16,,Northside Plumbing,Low water pressure
+WO-1023,Building A,Electrical,Medium,Closed,2026-06-22,2026-07-16,Brightline Electric,Breaker tripping
+WO-1024,Building A,HVAC,Medium,Closed,2026-09-04,2026-10-03,Acme HVAC,Thermostat not responding
+WO-1025,Annex D,HVAC,Low,Closed,2026-08-09,2026-08-28,Acme HVAC,Thermostat not responding
+WO-1026,Annex D,Custodial,High,Closed,2026-06-08,2026-06-17,CleanSweep Services,Restroom restock
+WO-1027,Building A,Plumbing,High,Closed,2026-07-14,2026-07-20,Northside Plumbing,Leaking faucet
+WO-1028,Building B,HVAC,Medium,Closed,2026-08-07,2026-09-14,Acme HVAC,Thermostat not responding
+WO-1029,Building A,Custodial,Medium,Closed,2026-07-16,2026-07-29,CleanSweep Services,Restroom restock
+WO-1030,Building B,Custodial,High,Open,2026-06-16,,CleanSweep Services,Restroom restock
+WO-1031,Building A,Carpentry,Medium,Closed,2026-07-22,2026-09-02,Oak and Pine Carpentry,Ceiling tile stained
+WO-1032,Annex D,Electrical,Low,Closed,2026-07-08,2026-08-14,Brightline Electric,Flickering lights
+WO-1033,Building C,Plumbing,Medium,Open,2026-10-18,,Northside Plumbing,Leaking faucet
+WO-1034,Building A,HVAC,Medium,Closed,2026-06-26,2026-08-07,Acme HVAC,Room too hot
+WO-1035,Building A,Plumbing,High,Closed,2026-10-15,2026-10-26,Northside Plumbing,Clogged drain
+WO-1036,Building C,Custodial,Medium,In Progress,2026-10-12,,CleanSweep Services,Spill in corridor
+WO-1037,Annex D,Electrical,High,Closed,2026-07-23,2026-07-26,Brightline Electric,Breaker tripping
+WO-1038,Building B,HVAC,Emergency,Closed,2026-06-10,2026-06-14,Acme HVAC,Air handler noise
+WO-1039,Building C,Plumbing,Low,In Progress,2026-10-15,,Northside Plumbing,Clogged drain
+WO-1040,Building C,Carpentry,Low,Open,2026-08-16,,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1041,Building B,HVAC,Low,Open,2026-09-28,,Acme HVAC,Air handler noise
+WO-1042,Building C,Electrical,Medium,Closed,2026-08-06,2026-08-20,Brightline Electric,Exit sign out
+WO-1043,Building C,Electrical,Low,On Hold,2026-10-19,,Brightline Electric,Outlet dead
+WO-1044,Annex D,HVAC,Medium,Closed,2026-09-29,2026-10-30,Acme HVAC,No cooling
+WO-1045,Building B,Custodial,Emergency,Closed,2026-10-13,2026-10-17,CleanSweep Services,Carpet cleaning request
+WO-1046,Building A,HVAC,Low,Closed,2026-06-05,2026-08-04,Acme HVAC,Air handler noise
+WO-1047,Building B,Electrical,Low,Open,2026-10-22,,Brightline Electric,Outlet dead
+WO-1048,Building B,Electrical,Low,Closed,2026-07-20,2026-10-24,Brightline Electric,Flickering lights
+WO-1049,Annex D,Plumbing,Low,In Progress,2026-10-26,,Northside Plumbing,Clogged drain
+WO-1050,Annex D,Electrical,High,Closed,2026-10-05,2026-10-12,Brightline Electric,Flickering lights
+WO-1051,Building B,Plumbing,Low,Open,2026-07-07,,Northside Plumbing,Leaking faucet
+WO-1052,Building C,Plumbing,Medium,In Progress,2026-08-22,,Northside Plumbing,Low water pressure
+WO-1053,Building B,Custodial,Medium,In Progress,2026-10-25,,CleanSweep Services,Carpet cleaning request
+WO-1054,Annex D,Electrical,Emergency,Closed,2026-07-13,2026-07-14,Brightline Electric,Outlet dead
+WO-1055,Building A,Carpentry,Low,Closed,2026-09-14,2026-10-19,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1056,Building C,Custodial,Medium,Closed,2026-09-12,2026-10-02,CleanSweep Services,Carpet cleaning request
+WO-1057,Building C,Electrical,Medium,In Progress,2026-10-01,,Brightline Electric,Exit sign out
+WO-1058,Annex D,Electrical,Medium,Closed,2026-08-18,2026-09-15,Brightline Electric,Flickering lights
+WO-1059,Building C,Custodial,Medium,Closed,2026-07-21,2026-08-18,CleanSweep Services,Spill in corridor
+WO-1060,Building B,Carpentry,Low,Closed,2026-08-11,2026-10-03,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1061,Building C,Carpentry,Low,In Progress,2026-09-19,,Oak and Pine Carpentry,Door will not latch
+WO-1062,Building A,Plumbing,Medium,Closed,2026-09-05,2026-10-13,Northside Plumbing,Clogged drain
+WO-1063,Annex D,Carpentry,Medium,Open,2026-10-14,,Oak and Pine Carpentry,Ceiling tile stained
+WO-1064,Annex D,Carpentry,High,Open,2026-10-31,,Oak and Pine Carpentry,Door will not latch
+WO-1065,Building A,Plumbing,Low,Closed,2026-06-22,2026-08-14,Northside Plumbing,Low water pressure
+WO-1066,Annex D,Plumbing,Low,Closed,2026-06-19,2026-09-24,Northside Plumbing,Low water pressure
+WO-1067,Building C,Custodial,Medium,Closed,2026-09-22,2026-10-27,CleanSweep Services,Spill in corridor
+WO-1068,Annex D,Electrical,Low,Closed,2026-06-21,2026-08-14,Brightline Electric,Outlet dead
+WO-1069,Building B,Electrical,High,Closed,2026-08-08,2026-08-14,Brightline Electric,Flickering lights
+WO-1070,Annex D,Plumbing,Medium,Closed,2026-09-23,2026-10-27,Northside Plumbing,Toilet running
+WO-1071,Building A,Custodial,Medium,Closed,2026-10-17,2026-10-31,CleanSweep Services,Carpet cleaning request
+WO-1072,Annex D,Carpentry,Medium,Closed,2026-08-03,2026-08-21,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1073,Annex D,Custodial,Low,Closed,2026-09-06,2026-10-31,CleanSweep Services,Spill in corridor
+WO-1074,Building A,Carpentry,Medium,Open,2026-07-21,,Oak and Pine Carpentry,Ceiling tile stained
+WO-1075,Building B,Custodial,Medium,On Hold,2026-10-26,,CleanSweep Services,Restroom restock
+WO-1076,Building C,Plumbing,High,Closed,2026-07-27,2026-08-02,Northside Plumbing,Low water pressure
+WO-1077,Building A,Electrical,Low,Closed,2026-07-17,2026-08-21,Brightline Electric,Outlet dead
+WO-1078,Building A,Electrical,High,Closed,2026-10-15,2026-10-27,Brightline Electric,Flickering lights
+WO-1079,Building A,Plumbing,Low,Closed,2026-09-23,2026-10-26,Northside Plumbing,Clogged drain
+WO-1080,Building A,Carpentry,Medium,Closed,2026-07-30,2026-08-11,Oak and Pine Carpentry,Door will not latch
+WO-1081,Annex D,Electrical,High,On Hold,2026-10-26,,Brightline Electric,Flickering lights
+WO-1082,Building A,HVAC,Medium,Closed,2026-08-31,2026-09-10,Acme HVAC,Room too hot
+WO-1083,Building A,Electrical,Medium,Closed,2026-07-30,2026-08-08,Brightline Electric,Exit sign out
+WO-1084,Annex D,Carpentry,High,Open,2026-08-01,,Oak and Pine Carpentry,Door will not latch
+WO-1085,Annex D,Custodial,Low,On Hold,2026-08-24,,CleanSweep Services,Restroom restock
+WO-1086,Annex D,Custodial,Medium,Closed,2026-08-31,2026-10-09,CleanSweep Services,Spill in corridor
+WO-1087,Building C,Carpentry,Medium,Closed,2026-07-27,2026-08-15,Oak and Pine Carpentry,Door will not latch
+WO-1088,Building A,Carpentry,High,In Progress,2026-08-27,,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1089,Annex D,Plumbing,High,Closed,2026-07-20,2026-07-28,Northside Plumbing,Low water pressure
+WO-1090,Building B,Carpentry,Low,On Hold,2026-10-09,,Oak and Pine Carpentry,Ceiling tile stained
+WO-1091,Building C,Custodial,Medium,Closed,2026-06-13,2026-07-10,CleanSweep Services,Restroom restock
+WO-1092,Building C,Carpentry,Medium,Closed,2026-08-29,2026-09-13,Oak and Pine Carpentry,Door will not latch
+WO-1093,Building C,Custodial,Low,Closed,2026-09-15,2026-10-14,CleanSweep Services,Carpet cleaning request
+WO-1094,Building C,Custodial,Low,Open,2026-06-20,,CleanSweep Services,Spill in corridor
+WO-1095,Building C,Electrical,High,Open,2026-10-29,,Brightline Electric,Outlet dead
+WO-1096,Building A,HVAC,Medium,Closed,2026-09-30,2026-10-31,Acme HVAC,Room too hot
+WO-1097,Building A,Custodial,Medium,Closed,2026-07-02,2026-07-25,CleanSweep Services,Restroom restock
+WO-1098,Building A,Carpentry,High,Closed,2026-10-16,2026-10-23,Oak and Pine Carpentry,Door will not latch
+WO-1099,Annex D,Plumbing,Low,Closed,2026-08-16,2026-09-05,Northside Plumbing,Clogged drain
+WO-1100,Annex D,Custodial,Medium,Closed,2026-07-11,2026-07-29,CleanSweep Services,Restroom restock
+WO-1101,Building B,Custodial,Medium,Open,2026-10-07,,CleanSweep Services,Restroom restock
+WO-1102,Annex D,HVAC,High,Closed,2026-09-18,2026-09-27,Acme HVAC,No cooling
+WO-1103,Annex D,Custodial,Medium,In Progress,2026-10-24,,CleanSweep Services,Spill in corridor
+WO-1104,Building A,Plumbing,Low,On Hold,2026-06-04,,Northside Plumbing,Clogged drain
+WO-1105,Building C,Plumbing,Low,Closed,2026-09-26,2026-10-15,Northside Plumbing,Toilet running
+WO-1106,Annex D,Carpentry,High,On Hold,2026-08-16,,Oak and Pine Carpentry,Door will not latch
+WO-1107,Building A,Custodial,Emergency,Closed,2026-07-14,2026-07-17,CleanSweep Services,Spill in corridor
+WO-1108,Building C,Plumbing,Low,Closed,2026-06-07,2026-08-09,Northside Plumbing,Leaking faucet
+WO-1109,Annex D,Plumbing,Medium,Closed,2026-07-11,2026-08-22,Northside Plumbing,Low water pressure
+WO-1110,Building B,HVAC,Medium,Closed,2026-07-20,2026-08-08,Acme HVAC,Air handler noise
+WO-1111,Building A,Carpentry,Medium,Closed,2026-08-20,2026-09-21,Oak and Pine Carpentry,Ceiling tile stained
+WO-1112,Building A,HVAC,Medium,Closed,2026-08-11,2026-08-21,Acme HVAC,No cooling
+WO-1113,Annex D,Carpentry,High,Closed,2026-06-22,2026-06-28,Oak and Pine Carpentry,Door will not latch
+WO-1114,Annex D,Plumbing,Medium,On Hold,2026-09-29,,Northside Plumbing,Leaking faucet
+WO-1115,Building A,HVAC,Low,In Progress,2026-09-01,,Acme HVAC,No cooling
+WO-1116,Building B,HVAC,High,Closed,2026-10-03,2026-10-11,Acme HVAC,No cooling
+WO-1117,Annex D,Electrical,Medium,Closed,2026-08-24,2026-09-15,Brightline Electric,Flickering lights
+WO-1118,Building B,Carpentry,Medium,Closed,2026-07-26,2026-08-08,Oak and Pine Carpentry,Door will not latch
+WO-1119,Building C,Electrical,Low,Closed,2026-07-18,2026-08-29,Brightline Electric,Outlet dead
+WO-1120,Building B,Electrical,Medium,Closed,2026-06-04,2026-07-03,Brightline Electric,Exit sign out
+WO-1121,Annex D,Custodial,Medium,Closed,2026-08-08,2026-09-05,CleanSweep Services,Restroom restock
+WO-1122,Annex D,Plumbing,Low,Open,2026-09-01,,Northside Plumbing,Leaking faucet
+WO-1123,Building B,Electrical,Medium,Closed,2026-07-27,2026-08-17,Brightline Electric,Exit sign out
+WO-1124,Building A,HVAC,High,On Hold,2026-08-09,,Acme HVAC,No cooling
+WO-1125,Annex D,HVAC,Medium,Open,2026-07-20,,Acme HVAC,Air handler noise
+WO-1126,Building C,Electrical,Medium,On Hold,2026-07-23,,Brightline Electric,Exit sign out
+WO-1127,Building C,Custodial,Emergency,Closed,2026-10-15,2026-10-16,CleanSweep Services,Spill in corridor
+WO-1128,Annex D,HVAC,Medium,Open,2026-10-07,,Acme HVAC,Thermostat not responding
+WO-1129,Building C,Electrical,Low,Open,2026-10-21,,Brightline Electric,Breaker tripping
+WO-1130,Building B,Electrical,Medium,Closed,2026-08-31,2026-09-27,Brightline Electric,Flickering lights
+WO-1131,Building B,Plumbing,High,Closed,2026-07-27,2026-08-06,Northside Plumbing,Clogged drain
+WO-1132,Annex D,Carpentry,Medium,Closed,2026-07-07,2026-07-23,Oak and Pine Carpentry,Ceiling tile stained
+WO-1133,Annex D,Custodial,High,In Progress,2026-07-11,,CleanSweep Services,Carpet cleaning request
+WO-1134,Annex D,Electrical,Medium,Closed,2026-08-16,2026-08-30,Brightline Electric,Outlet dead
+WO-1135,Building A,Plumbing,Medium,In Progress,2026-08-02,,Northside Plumbing,Low water pressure
+WO-1136,Building C,Electrical,Emergency,Closed,2026-10-20,2026-10-24,Brightline Electric,Flickering lights
+WO-1137,Building B,Custodial,Low,In Progress,2026-09-06,,CleanSweep Services,Carpet cleaning request
+WO-1138,Building A,HVAC,Low,On Hold,2026-10-22,,Acme HVAC,Air handler noise
+WO-1139,Building B,Plumbing,High,Closed,2026-08-18,2026-08-24,Northside Plumbing,Clogged drain
+WO-1140,Building C,Custodial,Low,Open,2026-07-31,,CleanSweep Services,Restroom restock
+WO-1141,Building A,Electrical,Medium,Closed,2026-08-07,2026-09-14,Brightline Electric,Flickering lights
+WO-1142,Building A,Plumbing,Low,In Progress,2026-07-23,,Northside Plumbing,Low water pressure
+WO-1143,Building C,HVAC,Medium,Closed,2026-10-01,2026-10-25,Acme HVAC,No cooling
+WO-1144,Building C,Electrical,High,Closed,2026-09-03,2026-09-11,Brightline Electric,Flickering lights
+WO-1145,Annex D,HVAC,Medium,Closed,2026-07-06,2026-08-17,Acme HVAC,Room too hot
+WO-1146,Building A,Plumbing,Emergency,Closed,2026-10-23,2026-10-24,Northside Plumbing,Clogged drain
+WO-1147,Building B,Custodial,High,On Hold,2026-07-08,,CleanSweep Services,Restroom restock
+WO-1148,Building C,HVAC,Low,Closed,2026-07-20,2026-10-21,Acme HVAC,Thermostat not responding
+WO-1149,Building C,Carpentry,Medium,Closed,2026-09-02,2026-10-12,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1150,Annex D,Electrical,High,Closed,2026-08-23,2026-08-27,Brightline Electric,Outlet dead
+WO-1151,Building B,Plumbing,Medium,In Progress,2026-10-27,,Northside Plumbing,Clogged drain
+WO-1152,Building B,Custodial,High,Closed,2026-06-13,2026-06-17,CleanSweep Services,Restroom restock
+WO-1153,Building B,Plumbing,Low,Open,2026-11-01,,Northside Plumbing,Toilet running
+WO-1154,Building B,Plumbing,High,Closed,2026-10-26,2026-10-29,Northside Plumbing,Toilet running
+WO-1155,Building A,HVAC,High,Closed,2026-10-19,2026-10-22,Acme HVAC,Room too hot
+WO-1156,Building B,Carpentry,Medium,Closed,2026-08-01,2026-08-27,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1157,Building A,HVAC,Medium,Closed,2026-06-21,2026-07-09,Acme HVAC,Room too hot
+WO-1158,Annex D,Carpentry,Low,Closed,2026-07-15,2026-09-25,Oak and Pine Carpentry,Door will not latch
+WO-1159,Building C,HVAC,Medium,Closed,2026-09-25,2026-10-03,Acme HVAC,No cooling
+WO-1160,Building A,Custodial,Medium,Closed,2026-07-08,2026-08-03,CleanSweep Services,Carpet cleaning request
+WO-1161,Building C,Custodial,Medium,On Hold,2026-09-07,,CleanSweep Services,Restroom restock
+WO-1162,Building C,Carpentry,Medium,Closed,2026-10-08,2026-10-26,Oak and Pine Carpentry,Ceiling tile stained
+WO-1163,Annex D,Plumbing,Medium,Open,2026-07-03,,Northside Plumbing,Leaking faucet
+WO-1164,Building A,Electrical,Low,In Progress,2026-06-12,,Brightline Electric,Exit sign out
+WO-1165,Building C,Electrical,Low,Closed,2026-07-16,2026-10-11,Brightline Electric,Breaker tripping
+WO-1166,Building B,Electrical,High,Closed,2026-06-25,2026-06-29,Brightline Electric,Outlet dead
+WO-1167,Building B,Electrical,Low,Closed,2026-07-30,2026-08-22,Brightline Electric,Exit sign out
+WO-1168,Building A,Custodial,Low,In Progress,2026-06-12,,CleanSweep Services,Spill in corridor
+WO-1169,Building B,Electrical,Medium,Closed,2026-08-14,2026-09-26,Brightline Electric,Flickering lights
+WO-1170,Building A,Custodial,Medium,Closed,2026-10-15,2026-10-26,CleanSweep Services,Spill in corridor
+WO-1171,Building C,Custodial,High,Closed,2026-07-17,2026-07-25,CleanSweep Services,Carpet cleaning request
+WO-1172,Building B,Electrical,Low,Open,2026-06-09,,Brightline Electric,Outlet dead
+WO-1173,Building C,HVAC,Medium,Closed,2026-07-16,2026-08-10,Acme HVAC,Thermostat not responding
+WO-1174,Annex D,Custodial,High,Closed,2026-07-14,2026-07-17,CleanSweep Services,Carpet cleaning request
+WO-1175,Building B,Electrical,Emergency,Closed,2026-07-23,2026-07-27,Brightline Electric,Breaker tripping
+WO-1176,Annex D,Plumbing,Low,Closed,2026-08-28,2026-10-05,Northside Plumbing,Low water pressure
+WO-1177,Building C,Plumbing,High,Closed,2026-06-18,2026-06-29,Northside Plumbing,Leaking faucet
+WO-1178,Building A,Carpentry,Low,On Hold,2026-10-22,,Oak and Pine Carpentry,Ceiling tile stained
+WO-1179,Building A,Custodial,Medium,Closed,2026-07-21,2026-08-24,CleanSweep Services,Restroom restock
+WO-1180,Building C,HVAC,Low,On Hold,2026-09-19,,Acme HVAC,Room too hot
+WO-1181,Building A,Carpentry,Low,Closed,2026-08-31,2026-10-20,Oak and Pine Carpentry,Ceiling tile stained
+WO-1182,Building A,Electrical,Medium,Closed,2026-09-06,2026-09-25,Brightline Electric,Flickering lights
+WO-1183,Building B,Electrical,Medium,Closed,2026-09-25,2026-10-10,Brightline Electric,Flickering lights
+WO-1184,Annex D,Custodial,High,Closed,2026-10-13,2026-10-17,CleanSweep Services,Restroom restock
+WO-1185,Building C,Custodial,Low,In Progress,2026-07-10,,CleanSweep Services,Spill in corridor
+WO-1186,Building A,Carpentry,High,Closed,2026-07-11,2026-07-21,Oak and Pine Carpentry,Ceiling tile stained
+WO-1187,Building C,Custodial,High,Closed,2026-07-06,2026-07-14,CleanSweep Services,Spill in corridor
+WO-1188,Building A,HVAC,Medium,Closed,2026-06-25,2026-07-16,Acme HVAC,No cooling
+WO-1189,Building A,Custodial,Medium,Closed,2026-08-11,2026-09-10,CleanSweep Services,Restroom restock
+WO-1190,Building B,HVAC,Low,Open,2026-08-06,,Acme HVAC,Room too hot
+WO-1191,Building C,Plumbing,Medium,Closed,2026-07-12,2026-08-08,Northside Plumbing,Toilet running
+WO-1192,Building C,Electrical,Medium,Closed,2026-08-07,2026-09-09,Brightline Electric,Outlet dead
+WO-1193,Building B,Electrical,High,Closed,2026-07-26,2026-07-31,Brightline Electric,Breaker tripping
+WO-1194,Annex D,HVAC,Medium,In Progress,2026-09-26,,Acme HVAC,Thermostat not responding
+WO-1195,Building C,Custodial,Medium,Closed,2026-10-11,2026-10-29,CleanSweep Services,Spill in corridor
+WO-1196,Building C,Custodial,High,Closed,2026-07-16,2026-07-24,CleanSweep Services,Spill in corridor
+WO-1197,Building A,Plumbing,Medium,Open,2026-06-30,,Northside Plumbing,Toilet running
+WO-1198,Building C,HVAC,Medium,Open,2026-06-16,,Acme HVAC,Thermostat not responding
+WO-1199,Building B,Custodial,Medium,Closed,2026-09-21,2026-10-04,CleanSweep Services,Carpet cleaning request
+WO-1200,Annex D,Carpentry,Emergency,Closed,2026-07-31,2026-08-03,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1201,Annex D,Electrical,Low,Closed,2026-07-10,2026-08-12,Brightline Electric,Flickering lights
+WO-1202,Building C,Electrical,Medium,Closed,2026-06-08,2026-07-23,Brightline Electric,Exit sign out
+WO-1203,Building C,Custodial,Medium,Open,2026-09-21,,CleanSweep Services,Spill in corridor
+WO-1204,Building A,Carpentry,Low,Closed,2026-06-13,2026-09-14,Oak and Pine Carpentry,Ceiling tile stained
+WO-1205,Annex D,HVAC,Low,Closed,2026-08-24,2026-10-14,Acme HVAC,Room too hot
+WO-1206,Building A,Plumbing,Low,On Hold,2026-08-04,,Northside Plumbing,Low water pressure
+WO-1207,Building A,Custodial,Medium,Closed,2026-07-26,2026-09-09,CleanSweep Services,Restroom restock
+WO-1208,Building C,HVAC,Low,Closed,2026-08-08,2026-10-28,Acme HVAC,No cooling
+WO-1209,Building A,Plumbing,Low,Closed,2026-07-04,2026-08-24,Northside Plumbing,Leaking faucet
+WO-1210,Annex D,Electrical,High,Closed,2026-09-24,2026-10-03,Brightline Electric,Outlet dead
+WO-1211,Annex D,Electrical,High,Closed,2026-10-01,2026-10-03,Brightline Electric,Outlet dead
+WO-1212,Building B,HVAC,Low,Closed,2026-06-27,2026-08-30,Acme HVAC,Thermostat not responding
+WO-1213,Building A,Electrical,Medium,Closed,2026-08-03,2026-08-18,Brightline Electric,Breaker tripping
+WO-1214,Annex D,HVAC,Low,Open,2026-06-15,,Acme HVAC,No cooling
+WO-1215,Building A,HVAC,Medium,Closed,2026-07-29,2026-08-14,Acme HVAC,Air handler noise
+WO-1216,Building B,Plumbing,Medium,In Progress,2026-10-06,,Northside Plumbing,Leaking faucet
+WO-1217,Annex D,Electrical,Medium,Closed,2026-09-18,2026-10-27,Brightline Electric,Flickering lights
+WO-1218,Building B,Plumbing,High,Closed,2026-07-07,2026-07-09,Northside Plumbing,Leaking faucet
+WO-1219,Building C,Electrical,Low,On Hold,2026-06-23,,Brightline Electric,Outlet dead
+WO-1220,Building C,Plumbing,Medium,In Progress,2026-10-20,,Northside Plumbing,Leaking faucet
+WO-1221,Building C,Electrical,Medium,On Hold,2026-07-22,,Brightline Electric,Flickering lights
+WO-1222,Building A,Carpentry,Medium,Closed,2026-07-30,2026-09-11,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1223,Building A,Carpentry,High,Closed,2026-09-16,2026-09-25,Oak and Pine Carpentry,Ceiling tile stained
+WO-1224,Annex D,Electrical,Medium,Closed,2026-07-15,2026-07-27,Brightline Electric,Outlet dead
+WO-1225,Building A,Electrical,Medium,Open,2026-07-13,,Brightline Electric,Exit sign out
+WO-1226,Annex D,Electrical,Medium,Open,2026-09-22,,Brightline Electric,Outlet dead
+WO-1227,Building B,Plumbing,High,Open,2026-07-31,,Northside Plumbing,Low water pressure
+WO-1228,Annex D,Electrical,Medium,In Progress,2026-10-13,,Brightline Electric,Breaker tripping
+WO-1229,Annex D,Electrical,High,Closed,2026-10-03,2026-10-05,Brightline Electric,Outlet dead
+WO-1230,Annex D,Electrical,Low,Closed,2026-07-10,2026-08-10,Brightline Electric,Flickering lights
+WO-1231,Building A,HVAC,High,On Hold,2026-10-14,,Acme HVAC,Air handler noise
+WO-1232,Building B,Electrical,Medium,Open,2026-06-14,,Brightline Electric,Breaker tripping
+WO-1233,Annex D,Custodial,High,Closed,2026-09-11,2026-09-23,CleanSweep Services,Spill in corridor
+WO-1234,Building A,Electrical,Medium,Open,2026-07-30,,Brightline Electric,Outlet dead
+WO-1235,Building A,Electrical,Medium,Closed,2026-07-02,2026-07-29,Brightline Electric,Flickering lights
+WO-1236,Building B,Electrical,Medium,Closed,2026-07-09,2026-08-02,Brightline Electric,Flickering lights
+WO-1237,Building C,Plumbing,Medium,Open,2026-10-18,,Northside Plumbing,Clogged drain
+WO-1238,Building A,Plumbing,Medium,In Progress,2026-09-05,,Northside Plumbing,Toilet running
+WO-1239,Building A,Plumbing,Medium,Closed,2026-06-13,2026-06-30,Northside Plumbing,Clogged drain
+WO-1240,Building C,Custodial,Low,Closed,2026-09-23,2026-10-21,CleanSweep Services,Carpet cleaning request
+WO-1241,Building B,HVAC,Low,In Progress,2026-10-25,,Acme HVAC,No cooling
+WO-1242,Building C,Custodial,Medium,Closed,2026-06-27,2026-08-07,CleanSweep Services,Restroom restock
+WO-1243,Building A,Plumbing,Low,Closed,2026-07-21,2026-08-28,Northside Plumbing,Clogged drain
+WO-1244,Building C,Carpentry,Medium,Closed,2026-07-06,2026-07-20,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1245,Building C,Electrical,Medium,Closed,2026-08-05,2026-09-19,Brightline Electric,Outlet dead
+WO-1246,Building A,Electrical,High,Closed,2026-10-01,2026-10-06,Brightline Electric,Outlet dead
+WO-1247,Building C,Electrical,Low,Open,2026-07-17,,Brightline Electric,Breaker tripping
+WO-1248,Building C,Plumbing,Low,Closed,2026-06-27,2026-10-03,Northside Plumbing,Low water pressure
+WO-1249,Building C,HVAC,High,Open,2026-07-24,,Acme HVAC,Room too hot
+WO-1250,Building A,HVAC,Medium,Closed,2026-07-04,2026-07-21,Acme HVAC,No cooling
+WO-1251,Annex D,Plumbing,Low,Closed,2026-07-31,2026-10-17,Northside Plumbing,Leaking faucet
+WO-1252,Annex D,Custodial,Medium,Closed,2026-08-01,2026-08-29,CleanSweep Services,Carpet cleaning request
+WO-1253,Building C,Electrical,Low,Closed,2026-10-02,2026-10-26,Brightline Electric,Breaker tripping
+WO-1254,Building A,Custodial,Low,Closed,2026-09-26,2026-10-26,CleanSweep Services,Spill in corridor
+WO-1255,Building B,HVAC,High,Closed,2026-08-08,2026-08-20,Acme HVAC,Thermostat not responding
+WO-1256,Building C,Electrical,Low,In Progress,2026-08-12,,Brightline Electric,Exit sign out
+WO-1257,Annex D,Custodial,Medium,Open,2026-10-28,,CleanSweep Services,Carpet cleaning request
+WO-1258,Building B,Electrical,Low,In Progress,2026-10-26,,Brightline Electric,Outlet dead
+WO-1259,Annex D,Custodial,Medium,Closed,2026-06-20,2026-07-21,CleanSweep Services,Spill in corridor
+WO-1260,Annex D,Plumbing,Emergency,Closed,2026-10-04,2026-10-05,Northside Plumbing,Clogged drain
+WO-1261,Annex D,Carpentry,Medium,Closed,2026-07-19,2026-08-14,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1262,Annex D,HVAC,Medium,Closed,2026-06-22,2026-07-06,Acme HVAC,No cooling
+WO-1263,Building C,Electrical,Low,Closed,2026-07-07,2026-10-06,Brightline Electric,Breaker tripping
+WO-1264,Building C,Custodial,Medium,Closed,2026-08-30,2026-09-16,CleanSweep Services,Restroom restock
+WO-1265,Building C,Plumbing,Medium,Closed,2026-06-29,2026-07-17,Northside Plumbing,Toilet running
+WO-1266,Building B,HVAC,Medium,In Progress,2026-06-15,,Acme HVAC,Air handler noise
+WO-1267,Building C,HVAC,Medium,Closed,2026-10-12,2026-11-01,Acme HVAC,No cooling
+WO-1268,Building C,Plumbing,High,Closed,2026-06-17,2026-06-22,Northside Plumbing,Clogged drain
+WO-1269,Building B,HVAC,Medium,Closed,2026-06-04,2026-06-19,Acme HVAC,Thermostat not responding
+WO-1270,Building B,HVAC,High,Closed,2026-08-09,2026-08-20,Acme HVAC,Room too hot
+WO-1271,Annex D,Custodial,Low,On Hold,2026-09-22,,CleanSweep Services,Carpet cleaning request
+WO-1272,Building A,Plumbing,Low,Closed,2026-08-20,2026-09-29,Northside Plumbing,Clogged drain
+WO-1273,Annex D,Custodial,Medium,Open,2026-10-23,,CleanSweep Services,Spill in corridor
+WO-1274,Building C,HVAC,Low,Closed,2026-07-23,2026-10-11,Acme HVAC,Room too hot
+WO-1275,Building C,HVAC,Medium,In Progress,2026-10-05,,Acme HVAC,No cooling
+WO-1276,Building C,Custodial,Medium,On Hold,2026-09-28,,CleanSweep Services,Spill in corridor
+WO-1277,Building A,HVAC,Medium,Closed,2026-07-07,2026-08-08,Acme HVAC,Air handler noise
+WO-1278,Annex D,Electrical,Medium,On Hold,2026-09-13,,Brightline Electric,Breaker tripping
+WO-1279,Building C,HVAC,Medium,Closed,2026-10-08,2026-10-21,Acme HVAC,Thermostat not responding
+WO-1280,Building C,HVAC,Medium,Closed,2026-09-02,2026-09-26,Acme HVAC,Air handler noise
+WO-1281,Building B,Custodial,Medium,In Progress,2026-10-30,,CleanSweep Services,Spill in corridor
+WO-1282,Building C,HVAC,Medium,Closed,2026-09-22,2026-10-14,Acme HVAC,Room too hot
+WO-1283,Building B,Electrical,Medium,Closed,2026-09-06,2026-09-21,Brightline Electric,Exit sign out
+WO-1284,Building B,Custodial,Medium,Closed,2026-06-14,2026-07-26,CleanSweep Services,Spill in corridor
+WO-1285,Building A,Custodial,Low,In Progress,2026-10-12,,CleanSweep Services,Carpet cleaning request
+WO-1286,Building B,HVAC,High,Closed,2026-06-14,2026-06-28,Acme HVAC,Thermostat not responding
+WO-1287,Annex D,Electrical,Low,Closed,2026-07-11,2026-08-03,Brightline Electric,Outlet dead
+WO-1288,Annex D,Custodial,Medium,On Hold,2026-10-18,,CleanSweep Services,Carpet cleaning request
+WO-1289,Building A,HVAC,Medium,Closed,2026-08-15,2026-09-19,Acme HVAC,Thermostat not responding
+WO-1290,Building A,Custodial,High,Closed,2026-07-16,2026-07-22,CleanSweep Services,Spill in corridor
+WO-1291,Annex D,Carpentry,Emergency,Closed,2026-07-20,2026-07-21,Oak and Pine Carpentry,Ceiling tile stained
+WO-1292,Building B,Carpentry,Medium,Closed,2026-07-28,2026-08-18,Oak and Pine Carpentry,Cabinet hinge broken
+WO-1293,Building B,Electrical,High,Closed,2026-06-17,2026-06-24,Brightline Electric,Outlet dead
+WO-1294,Annex D,HVAC,Low,Closed,2026-07-06,2026-09-15,Acme HVAC,Thermostat not responding
+WO-1295,Building A,Plumbing,Medium,Open,2026-09-23,,Northside Plumbing,Low water pressure
+WO-1296,Building A,Custodial,Low,Open,2026-10-28,,CleanSweep Services,Carpet cleaning request
+WO-1297,Annex D,HVAC,Medium,Open,2026-10-20,,Acme HVAC,No cooling
+WO-1298,Building C,Plumbing,Medium,Open,2026-10-18,,Northside Plumbing,Toilet running
+WO-1299,Annex D,Plumbing,Medium,Open,2026-09-26,,Northside Plumbing,Toilet running
+WO-1300,Annex D,Electrical,High,Closed,2026-09-18,2026-09-28,Brightline Electric,Outlet dead
