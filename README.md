@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="workorder-analytics-dashboard" width="100%"></p>
+
 # workorder-analytics-dashboard
 
 A command-line report and a small Streamlit page that show work order backlog, aging and time to close from a CMMS export.
