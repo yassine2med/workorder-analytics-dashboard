@@ -2,6 +2,8 @@
 
 # workorder-analytics-dashboard
 
+[![CI](https://github.com/yassine2med/workorder-analytics-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/workorder-analytics-dashboard/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A command-line report and a small Streamlit page that show work order backlog, aging and time to close from a CMMS export.
 
 ![Screenshot](docs/screenshot.png)
