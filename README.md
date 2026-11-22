@@ -29,7 +29,9 @@ python -m pip install -e .
 | Open the dashboard page with the building filter | `streamlit run src/woa/app.py -- data/work_orders.csv` |
 | Rebuild the synthetic sample file | `python examples/make_sample_data.py` |
 
-The screenshot shows the command line report. The Streamlit page shows the same metrics and is not pictured.
+The first screenshot shows the command line report. The second shows the Streamlit page with the same metrics (synthetic sample data).
+
+![Streamlit dashboard](docs/screenshot-dashboard.png)
 
 Worked example:
 
